@@ -11,9 +11,11 @@ A Python-based tool that analyzes text to estimate whether it is **AI-generated 
 
 ## ▶️ Run
 
-```bash
+### CLI
 python app.py
-```
+
+### UI (Streamlit)
+streamlit run ui.py
 
 ## ⚠️ Note
 
